@@ -1,7 +1,7 @@
 # Hermann-Sockeng-CV-with-LaTeX
 This repository contains the curriculum vitae (CV) of Alex Hermann Sockeng Koussok, a Data Analyst and Applied Mathematician. The CV showcases his education, experience, skills, and certifications in the field of data analytics and mathematical modeling.
 
-# Alex Hermann Sockeng Koussok - Curriculum Vitae
+# Alex Hermann SOCKENG KOUSSOK - Curriculum Vitae
 
 ## Introduction
 Welcome to my GitHub repository! This repository contains my professional curriculum vitae (CV), highlighting my skills, education, experience, and certifications as a Data Analyst and Applied Mathematician.
@@ -34,13 +34,17 @@ Welcome to my GitHub repository! This repository contains my professional curric
 - Communication and Continuous Learning: Communication and Continuous Learning: Strong communication skills, both verbal and written, to effectively convey complex technical concepts and findings to diverse audiences. Committed to continuous learning and staying up-to-date with the latest advancements in data analysis, programming, and related fields.
 - English (Professional working proficiency)
 - French (Native - Fluent)
-
+  
 ## Certifications
 - IBM Data Analyst Professional Certificate, Coursera (2023)
 - IBM Data Science Professional Certificate, Coursera (2023)
 - Applied Data Science Lab, WorldQuant University, New Orleans, United States (2022)
 - Artificial Intelligence for Medicine Specialization, Coursera (2022)
 
+## GitHub Projects
+- PAAR-Anaphora-Resolution-Python
+- IBM Watson Studio Projects done in case of my IBM Data science and IBM Data Analysis Professional Certificate
+  
 ## Contact Information
 - Email: hermannsockeng@gmail.com
 - Phone: +237 690 21 87 96
