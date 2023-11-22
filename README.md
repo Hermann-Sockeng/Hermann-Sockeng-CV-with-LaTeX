@@ -20,7 +20,7 @@ Welcome to my GitHub repository! This repository contains my professional curric
 
 ## Experience
 - Lecturer, INSTITUT UNIVERSITAIRE MATAMFEN, Yaounde, Cameroon (2023-Present)
-- Research Engineer in Big Data & AI, BENSEARCH SOLUTIONS SAS, Paris, France (Hybrid)
+- Research Engineer in Big Data & AI, BENSEARCH SOLUTIONS SAS, Paris, France (Hybrid) (Sep, 2023-Present)
 - Data Analyst, MEGASOFT SARL, Yaounde, Cameroon (Jun 2020 - Sep 2020)
 
 ## Skills
