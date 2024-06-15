@@ -1,7 +1,7 @@
 # Hermann-Sockeng-CV-with-LaTeX
 This repository contains the curriculum vitae (CV) of Alex Hermann Sockeng Koussok, a Data Analyst and Applied Mathematician. The CV showcases his education, experience, skills, and certifications in the field of data analytics and mathematical modeling.
 
-# Alex Hermann SOCKENG KOUSSOK - Curriculum Vitae
+# Alex Hermann SOCKENG KOUSSOK - CV
 
 ## Introduction
 Welcome to my GitHub repository! This repository contains my professional curriculum vitae (CV), highlighting my skills, education, experience, and certifications as Applied Mathematician and Data Analyst.
